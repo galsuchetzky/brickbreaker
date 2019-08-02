@@ -3,3 +3,7 @@
 //
 
 #include "GameMain.h"
+
+int main(){
+    return 0;
+}
