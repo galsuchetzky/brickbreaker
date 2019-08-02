@@ -7,7 +7,7 @@
 
 
 class GameMain {
-
+int a = 0;
 };
 
 
